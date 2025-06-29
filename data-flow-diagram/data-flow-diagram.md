@@ -62,4 +62,4 @@ A Data Flow Diagram (DFD) helps illustrate:
 
 ## 🗺️ Diagram
 
-![Data Flow Diagram](./Data-flow-diagram2png.png)
+![Data Flow Diagram](./data-flow.png)
